@@ -1,0 +1,7 @@
+{
+  "name": "Meeting Scribe AI",
+  "description": "An intelligent meeting notes application that uses speech recognition for transcription, speech synthesis for reading notes aloud, and the Gemini API for summarization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
